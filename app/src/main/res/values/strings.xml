@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidSnackbarMVP</string>
+    <string name="text_button">SHOW SNACKBAR</string>
+</resources>
